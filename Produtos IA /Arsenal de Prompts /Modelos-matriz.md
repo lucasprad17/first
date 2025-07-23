@@ -100,11 +100,7 @@ Etapa 2 – Geração automática:
 - Objetivo: Gerar cliques  
 - Consciência do Avatar: Médio  
 - Plataforma: Instagram Ads
-
-\```
-asdlasldas
-\``` 
-
+```
 
 # 🧠 SUPER PROMPT | Escrita de Carroseis - Gerador Interno de Modelos-Matriz
 
