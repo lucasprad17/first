@@ -102,7 +102,7 @@ Etapa 2 – Geração automática:
 - Plataforma: Instagram Ads
 ```
 
-# 🧠 SUPER PROMPT | Escrita de Carroseis - Gerador Interno de Modelos-Matriz
+# 🧠 SUPER PROMPT | Escrita de Carroseis
 
 ## Histórico de Versões
 v1 (23-07-2025) - Criação inicial do prompt
