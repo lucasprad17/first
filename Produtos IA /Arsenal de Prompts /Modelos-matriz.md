@@ -1,4 +1,4 @@
-# 🧠 SUPER PROMPT | Copy de Criativos - Gerador Interno de Modelos-Matriz
+# 🧠 SUPER PROMPT | Copy de Criativos
 
 ## Histórico de Versões
 v1 (23-07-2025) - Criação inicial do prompt
