@@ -10,7 +10,7 @@ Criados para gerar atenção imediata nos primeiros segundos de um criativo, des
 Lucas Prado
 
 ## Prompt
-
+```
 ### 🎯 CONTEXTO
 Escreva um anúncio para **[NOME DO PRODUTO/OFERTA]**, voltado para **[NICHO/AVATAR]**, que deseja **[TRANSFORMAÇÃO DESEJADA]**, mas enfrenta **[OBSTÁCULO/OBJEÇÃO PRINCIPAL]**. O anúncio precisa parar o scroll nos primeiros 2 segundos com um gancho de tensão, seguido por uma narrativa curta e lógica que leve ao clique.
 
@@ -89,3 +89,4 @@ Agenda limitada a 12 reuniões por semana.
 Link na bio ou comenta "DIAGNÓSTICO" que eu te chamo no privado.
 PS: Se você não consegue explicar em 30 segundos por que alguém deveria comprar seu produto ao invés do concorrente, o problema não é o pixel.
 </exemplo de saida>
+```
