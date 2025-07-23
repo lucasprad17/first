@@ -4,7 +4,7 @@
 v1 (23-07-2025) - Criação inicial do prompt
 
 ## Objetivo
-Facilitar a criação de prompts para a escrita de copys para anúncios
+Projetados para aumentar a credibilidade do conteúdo usando elementos de prova social, lógica ou autoridade.
 
 ## Autor
 Lucas Prado
