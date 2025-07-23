@@ -85,20 +85,22 @@ Etapa 2 – Geração do Criativo:
 📌 EXEMPLO DE SAÍDA
 
 <exemplo de saida>
-🔥 CRIATIVO GERADO - VERSÃO HORMBRUN
+🎬 Criativo de Prova
 
-🎯 HEADLINE DE TENSÃO:
-"87% dos infoprodutores gastam quase o que faturam com tráfego... e ainda acham que o problema é o criativo."
-📖 STORY DE VIRADA:
-Na semana passada, um cliente me mostrou sua conta do Facebook Ads: R$ 47 mil gastos, R$ 52 mil faturados. 5 mil de "lucro" para pagar equipe, ferramentas e viver. Depois de 3 anos no digital.
-🧠 ARGUMENTO LÓGICO:
-A matemática é simples: se você não tem um sistema que converte 1 real investido em pelo menos 4 reais de retorno consistente, você não tem um negócio. Tem um hobby caro.
-🎁 OFERTA OBJETIVA:
-Reunião de Diagnóstico: 60 minutos onde analiso sua conta, identifico os 3 vazamentos que estão sabotando seu ROI e mostro exatamente como estruturar um funil que vende todo dia (não só em lançamento).
-Não é consultoria genérica. É cirurgia no seu tráfego.
-⚡ CTA COM URGÊNCIA RACIONAL:
-Agenda limitada a 12 reuniões por semana.
-Link na bio ou comenta "DIAGNÓSTICO" que eu te chamo no privado.
-PS: Se você não consegue explicar em 30 segundos por que alguém deveria comprar seu produto ao invés do concorrente, o problema não é o pixel.
+**GANCHO**
+[Início com print da conta de anúncios no gerenciador – desfocado, mas mostrando o ROI apertado]
+🗣"Esse aqui é o print da conta de um cliente que me procurou semana passada: R$ 47 mil investidos em tráfego, R$ 52 mil de faturamento. Sabe o que isso significa? Quase 0 de lucro real. E isso depois de 3 anos no digital."
+
+**CORPO**
+[Corte para você explicando de forma direta, em tom confiante e técnico]
+"Ele achava que o problema era o criativo. Mas quando a gente mergulhou nos dados, identificamos 3 vazamentos no funil que estavam destruindo o ROI — e nenhum deles tinha a ver com o anúncio em si."
+[Tela dividida: antes/depois dos ajustes. Mostra crescimento de ROI com números reais. Pode ser em gráfico simples.]
+"Depois de 2 semanas, ele saiu de um ROAS de 1.1 para 3.8 — só ajustando estrutura, sequência de oferta e qualificação dos leads. Sem aumentar o orçamento."
+[Zoom em detalhes do funil redesenhado – mostrando autoridade e técnica]
+"A verdade é simples: se seu funil não consegue transformar R$ 1 em pelo menos R$ 4 de forma previsível, você não tem um negócio. Você tem um hobby caro."
+
+**CTA**
+"Se você sente que está nesse ciclo de investir, faturar e sobrar nada… Eu abro 12 diagnósticos por semana. São 60 minutos onde eu identifico os 3 principais vazamentos no seu tráfego e mostro como estruturar um funil que vende todos os dias — mesmo no perpétuo."
+Comenta “DIAGNÓSTICO” ou clica no link da bio pra garantir seu horário.
 </exemplo de saida>
 ```
