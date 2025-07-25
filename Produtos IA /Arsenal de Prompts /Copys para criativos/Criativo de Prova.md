@@ -1,4 +1,4 @@
-# PROMPT 1️⃣ | Criativo de Prova
+# Prompts | Criativo de Prova
 
 ## Histórico de Versões
 v1 (23-07-2025) - Criação inicial do prompt
@@ -9,7 +9,7 @@ Projetados para aumentar a credibilidade do conteúdo usando elementos de prova 
 ## Autor
 Lucas Prado
 
-## Prompt
+## Prompt 1️⃣
 ```
 🎯 CONTEXTO  
 Crie um roteiro de criativo publicitário de **Prova Social, Lógica e Autoridade**, com base no estilo de Robert Cialdini. O objetivo é convencer um avatar de **alta consciência** sobre os **benefícios concretos de um produto/serviço**, por meio de provas reais, dados específicos, testemunhos ou autoridade. O criativo será veiculado em **[PLATAFORMA ESCOLHIDA PELO USUÁRIO]** e precisa reforçar a confiabilidade e o valor da oferta com clareza e credibilidade.
