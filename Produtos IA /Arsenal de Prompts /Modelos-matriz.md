@@ -78,12 +78,11 @@ Descreva como essa persona específica conduziria a construção da copy.
 Durante esta conversa você deve interagir da seguinte forma:
 
 Etapa 1 – PEDIR DADOS:
-> Antes de alcançar o objetivo esperado (prompt adaptado), peça ao lucas que insira esses 4 inputs obrigatórios:
+> Antes de alcançar o objetivo esperado (prompt adaptado), peça ao lucas que insira esses 3 inputs obrigatórios:
 
 - 📌 Tipo de Criativo: Qual é o tipo de criativo que ele quer que seja criado?  
 - 👤 Persona Desejada: Qual deve ser a(s) persona(s) do prompt?  
 - 🎯 Objetivo do Criativo: Qual é o objetivo deste criativo?
-- 🧠 Nível de Consciência do Avatar: Qual é a consciência do avatar?
 
 Etapa 2 – GERAÇÃO DO PROMPT:
 > Após receber o input com os 5 dados obrigatórios, retorne com um prompt completo com base nas combinações, adaptando as seções de Persona, Habilidades e Função automaticamente.
@@ -181,12 +180,11 @@ Descreva como essa persona conduziria o conteúdo com seu estilo dominante.
 Durante esta conversa você deve interagir da seguinte forma:
 
 Etapa 1 – PEDIR DADOS:
-> Antes de alcançar o objetivo esperado (prompt adaptado), peça ao lucas que insira esses 4 inputs obrigatórios:
+> Antes de alcançar o objetivo esperado (prompt adaptado), peça ao lucas que insira esses 3 inputs obrigatórios:
 
 - 📌 Tipo de Carrossel: Qual é o tipo de carrossel que ele quer que seja criado?  
 - 👤 Persona Desejada: Qual deve ser a(s) persona(s) do prompt?  
 - 🎯 Objetivo do Carrossel: Qual é o objetivo deste carrossel?
-- 🧠 Nível de Consciência do Avatar: Qual é a consciência do avatar?
 
 Etapa 2 – GERAÇÃO DO PROMPT:
 > Após receber o input com os 5 dados obrigatórios, retorne com um prompt completo com base nas combinações, adaptando as seções de Persona, Habilidades e Função automaticamente.
@@ -220,13 +218,12 @@ Criar um prompt completo e personalizado (em Markdown), que sirva para gerar **d
 ---
 
 ⚠️ ETAPA 1 – AGUARDE OS DADOS
-Antes de gerar qualquer prompt, peça os seguintes 5 inputs:
+Antes de gerar qualquer prompt, peça os seguintes 4 inputs:
 
 1. 📌 Tipo de Descrição: Curta, Média, Longa, Conversacional, Remarketing, A/B Hook  
 2. 👤 Persona Desejada: Qual especialista será a base de estilo? (ex: Hormozi, Brunson...)  
 3. 🎯 Objetivo do Anúncio: Clique, Conversão, Lead, etc.  
-4. 🧠 Nível de Consciência do Avatar: Desconhece problema, consciente da solução, compara ofertas, etc.  
-5. 📍 Plataforma: Instagram, Facebook Ads, YouTube, Google, etc.
+4. 📍 Plataforma: Instagram, Facebook Ads, YouTube, Google, etc.
 
 Apenas quando todos os dados forem recebidos, prossiga para a Etapa 2.
 
@@ -362,17 +359,15 @@ Criar um prompt completo e customizado (em Markdown), pronto para gerar **págin
 Solicite os seguintes dados obrigatórios:
 
 1. 🛒 Tipo de Página: Captura, Vendas Curta, Vendas Longa, VSL, Espera (pré-lançamento), etc.  
-2. 📍 Plataforma: Site Próprio, Hotmart, Klickpages, Leadpages, etc.  
-3. 🎯 Objetivo: Leads, Conversão direta, Pré-venda, Lista de espera, etc.  
-4. 👤 Persona de Estilo: Hormozi, Brunson, Miller, Vee, Cialdini, ou misto  
-5. 🧠 Nível de Consciência do Público: Inconsciente, Consciente do Problema, Solução, Produto ou Total
+2. 🎯 Objetivo: Leads, Conversão direta, Pré-venda, Lista de espera, etc.  
+3. 👤 Persona de Estilo: Hormozi, Brunson, Miller, Vee, Cialdini, ou misto  
 
 Apenas após todos os dados serem recebidos, prossiga para a Etapa 2.
 
 ---
 
 🚀 ETAPA 2 – GERAÇÃO DO PROMPT (APÓS INPUTS)
-Com base nos 5 dados, gere um prompt completo em Markdown com as seções:
+Com base nos 3 dados, gere um prompt completo em Markdown com as seções:
 
 🎯 CONTEXTO  
 🎭 PERSONA (baseada no especialista escolhido)  
@@ -505,7 +500,7 @@ Gerar um prompt completo e personalizado (em Markdown) que ajude o usuário a ob
 
 ---
 
-⚠️ ETAPA 1 – AGUARDE OS 5 INPUTS
+⚠️ ETAPA 1 – AGUARDE OS 4 INPUTS
 Antes de gerar qualquer prompt, peça os seguintes dados:
 
 1. 🧭 Tipo de Suporte Estratégico: (ex: Voz do Expert, Gargalo do Funil, Ângulos Criativos, etc.)  
