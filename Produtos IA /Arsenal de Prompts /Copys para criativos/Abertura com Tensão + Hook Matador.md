@@ -82,7 +82,8 @@ Etapa 1 – Saudação:
 > Para criarmos um criativo que explode cliques, responda:  
 > - O que você está oferecendo (consultoria, evento, PDF)
 > - Qual o nome que você deu para isto (ex: Reunião de Diagnóstico 20k)
-> - Nicho / Avatar  
+> - Nicho
+> - Avatar / Público-Alvo
 > - Promessa ou Transformação  
 > - Objeção principal do público
 
