@@ -1,7 +1,4 @@
-# Prompts | Criativo de Dor vs Desejo
-
-## Histórico de Versões
-v1 (25-07-2025) - Criação inicial do prompt
+# Criativo de Dor vs Desejo
 
 ## Objetivo
 Feitos para amplificar a dor ou o desejo do avatar, conectando emocionalmente com o problema e a solução.
@@ -9,7 +6,11 @@ Feitos para amplificar a dor ou o desejo do avatar, conectando emocionalmente co
 ## Autor
 Lucas Prado
 
-## Prompt 1️⃣ (Captura de Leads)
+## Prompt para Captação de Leads
+
+## Histórico de Versões
+- v1 (25-07-2025) - Criação inicial do prompt
+
 ```
 🎯 CONTEXTO  
 Crie um criativo publicitário no formato **dor vs desejo** para **[NOME DO PRODUTO/OFERTA]**, voltado para **[NICHO/AVATAR]**, que busca **[TRANSFORMAÇÃO DESEJADA]**, mas enfrenta **[PRINCIPAL OBSTÁCULO/OBJEÇÃO]**.  
@@ -110,7 +111,11 @@ Quer descobrir o plano completo?
 👆 Clique em Saiba Mais e se inscreva. Totalmente online e gratuito.
 ```
 
-## Prompt 1️⃣ (Venda)
+## Prompt para Venda
+
+## Histórico de Versões
+- v1 (25-07-2025) - Criação inicial do prompt
+
 ```
 🎯 CONTEXTO  
 Crie um criativo publicitário no estilo **Dor vs Desejo** para **[NOME DO PRODUTO/OFERTA]**, voltado para **[NICHO/AVATAR]**, que deseja **[TRANSFORMAÇÃO DESEJADA]**, mas enfrenta **[PRINCIPAL DOR OU FRUSTRAÇÃO]**. O criativo será veiculado em **[PLATAFORMA]** com foco total em gerar **vendas**.  
