@@ -1,4 +1,4 @@
-# PROMPT 1️⃣ | Abertura com Tensão + Hook Matador 
+# Prompts | Abertura com Tensão + Hook Matador 
 
 ## Histórico de Versões
 v1 (23-07-2025) - Criação inicial do prompt
@@ -9,7 +9,7 @@ Criados para gerar atenção imediata nos primeiros segundos de um criativo, des
 ## Autor
 Lucas Prado
 
-## Prompt
+## Prompt 1️⃣
 ```
 ### 🎯 CONTEXTO
 Escreva um anúncio para **[NOME DO PRODUTO/OFERTA]**, voltado para **[NICHO/AVATAR]**, que deseja **[TRANSFORMAÇÃO DESEJADA]**, mas enfrenta **[OBSTÁCULO/OBJEÇÃO PRINCIPAL]**. O anúncio precisa parar o scroll nos primeiros 2 segundos com um gancho de tensão, seguido por uma narrativa curta e lógica que leve ao clique.
