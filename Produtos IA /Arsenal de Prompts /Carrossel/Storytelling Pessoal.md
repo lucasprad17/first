@@ -10,6 +10,7 @@ Lucas Prado
 
 ## Histórico de Versões
 - v1 (23-07-2025) - Criação inicial do prompt
+
 ```
 🎯 CONTEXTO  
 Crie um carrossel envolvente para **[NOME DO PRODUTO/OFERTA]**, voltado para **[NICHO/AVATAR]**, que busca **[TRANSFORMAÇÃO DESEJADA]**, mas enfrenta **[PRINCIPAL OBSTÁCULO/OBJEÇÃO]**.  
