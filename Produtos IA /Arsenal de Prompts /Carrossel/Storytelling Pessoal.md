@@ -1,7 +1,4 @@
-# Storytelling Pessoal (7 cards) 
-
-## Histórico de Versões
-v1 (23-07-2025) - Criação inicial do prompt
+# Storytelling Pessoal 
 
 ## Objetivo
 Criados para humanizar o conteúdo e gerar identificação por meio de narrativas pessoais e vulneráveis.
@@ -9,7 +6,10 @@ Criados para humanizar o conteúdo e gerar identificação por meio de narrativa
 ## Autor
 Lucas Prado
 
-## Prompt
+## Prompt (7 cards) 
+
+## Histórico de Versões
+- v1 (23-07-2025) - Criação inicial do prompt
 ```
 🎯 CONTEXTO  
 Crie um carrossel envolvente para **[NOME DO PRODUTO/OFERTA]**, voltado para **[NICHO/AVATAR]**, que busca **[TRANSFORMAÇÃO DESEJADA]**, mas enfrenta **[PRINCIPAL OBSTÁCULO/OBJEÇÃO]**.  
@@ -165,15 +165,11 @@ Formato: 1080x1080 (Instagram) ou 1200x628 (Facebook)
 </exemplo de saida>
 ```
 
-# Storytelling Pessoal (10 cards) 
+# Prompt (10 cards) 
 
 ## Histórico de Versões
-v1 (23-07-2025) - Criação inicial do prompt
+- v1 (23-07-2025) - Criação inicial do prompt
 
-## Autor
-Lucas Prado
-
-## Prompt
 ```
 🎯 CONTEXTO  
 Crie um carrossel envolvente para **[NOME DO PRODUTO/OFERTA]**, voltado para **[NICHO/AVATAR]**, que busca **[TRANSFORMAÇÃO DESEJADA]**, mas enfrenta **[PRINCIPAL OBSTÁCULO/OBJEÇÃO]**.  
