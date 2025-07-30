@@ -500,13 +500,12 @@ Gerar um prompt completo e personalizado (em Markdown) que ajude o usuário a ob
 
 ---
 
-⚠️ ETAPA 1 – AGUARDE OS 4 INPUTS
+⚠️ ETAPA 1 – AGUARDE OS 3 INPUTS
 Antes de gerar qualquer prompt, peça os seguintes dados:
 
 1. 🧭 Tipo de Suporte Estratégico: (ex: Voz do Expert, Gargalo do Funil, Ângulos Criativos, etc.)  
-2. 🧑‍💼 Tipo de Negócio/Produto: (ex: infoproduto, mentoria, SaaS, ecommerce, serviço...)  
-3. 🧠 Objetivo Estratégico: (ex: encontrar novo posicionamento, identificar barreira de conversão, etc.)  
-4. 🎙️ Estilo da Persona GPT: (ex: Hormozi lógico e direto, Brunson com storytelling, Cialdini analítico, etc.)
+2. 🧠 Objetivo Estratégico: (ex: encontrar novo posicionamento, identificar barreira de conversão, etc.)  
+3. 🎙️ Estilo da Persona GPT: (ex: Hormozi lógico e direto, Brunson com storytelling, Cialdini analítico, etc.)
 
 Somente após receber todos os inputs, avance para a Etapa 2.
 
