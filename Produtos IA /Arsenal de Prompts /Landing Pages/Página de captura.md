@@ -6,7 +6,7 @@ Criada para capturar contato de possíveis compradores potenciais
 ## Autor
 Lucas Prado
 
-## Prompt estilo Jeff Walker
+## Prompt Multiuso
 
 ## Histórico de Versões
 - v1 (24-07-2025) - Criação inicial do prompt
