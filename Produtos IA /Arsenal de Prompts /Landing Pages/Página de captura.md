@@ -6,7 +6,7 @@ Criada para capturar contato de possíveis compradores potenciais
 ## Autor
 Lucas Prado
 
-## Prompt estilo Jeef Walker
+## Prompt estilo Jeff Walker
 
 ## Histórico de Versões
 - v1 (24-07-2025) - Criação inicial do prompt
@@ -175,3 +175,11 @@ Sim, 100% gratuito. Meu objetivo é entregar valor real e mostrar que é possív
 🤔 "Quanto tempo dura o evento?"
 São 90 minutos de conteúdo puro + 30 minutos para responder dúvidas dos participantes.
 </exemplo de saida>
+```
+
+## Prompt []
+
+## Histórico de Versões
+- v1 (30-07-2025) - Criação inicial do prompt
+
+
