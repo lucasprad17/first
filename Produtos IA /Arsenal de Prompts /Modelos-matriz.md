@@ -488,7 +488,8 @@ Gerar um prompt completo e personalizado (em Markdown) que ajude o usuário a ob
 ---
 
 ⚙️ CATEGORIAS DE SUPORTE ESTRATÉGICO SUPORTADAS:
-- Descoberta de Voz do Expert  
+- Descoberta de Voz do Expert
+- Descoberta do Arquétipo do Expert
 - Mapeamento de Dores e Objeções do Avatar  
 - Identificação de Desejos Ocultos  
 - Criação de Promessa Clara e Atraente  
