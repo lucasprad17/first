@@ -10,6 +10,7 @@ Lucas Prado
 
 ## Histórico de Versões
 v1 (24-07-2025) - Criação inicial do prompt
+v1.1 (30-07-2025) - Ajustes na seção Intruções Gerais e Fluxo de Interação 
 
 ```
 🔧 INSTRUÇÕES GERAIS (PARA GPT)
