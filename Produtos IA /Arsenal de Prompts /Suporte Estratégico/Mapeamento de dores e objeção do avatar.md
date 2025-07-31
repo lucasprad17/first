@@ -1,7 +1,7 @@
 # Mapeamento de dores e objeções do avatar
 
 ## Objetivo
-Feitos para descobrir o que o público realmente quer, mas ainda não sabe expressar.
+Voltados para encontrar as principais resistências e frustrações do público-alvo.
 
 ## Autor
 Lucas Prado
