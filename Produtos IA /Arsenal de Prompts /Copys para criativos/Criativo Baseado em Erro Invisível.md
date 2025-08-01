@@ -1,7 +1,7 @@
-# Criativo com Ângulo de Contrarianismo
+# Criativo com Erro Invisivel
 
 ## Objetivo
-Criados para gerar um criativo que chama atenção ao desafiar uma crença comum do mercado, gerando choque e curiosidade imediata.
+Criados para gerar um criativo que revela um erro camuflado de boa prática, despertando a urgência de corrigir algo que o público nem sabia que fazia errado
 
 ## Autor
 Lucas Prado
@@ -131,3 +131,4 @@ Vou analisar suas campanhas atuais e mostrar exatamente o que pode ser otimizado
 
 Clique em Saiba Mais e marque a sua consultoria comigo agora!
 </exemplo de saida>
+```
