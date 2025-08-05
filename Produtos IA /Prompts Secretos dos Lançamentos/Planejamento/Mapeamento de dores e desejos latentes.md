@@ -1,4 +1,4 @@
-# Diagnóstico Pré-Lançamento
+# Mapeamento de dores e desejos latentes
 
 ## Objetivo
 Revelar o que realmente incomoda e o que o avatar deseja, mesmo que ele não saiba explicar.
@@ -62,8 +62,43 @@ Etapa 2 – Geração
 📌 EXEMPLO DE OUTPUT IDEAL  
 
 <exemplo de saida>
+🔥 10 DORES LATENTES
+- Eu já pedi mil vezes e continuo sendo ignorada.
+- Cada vez que olho pra esse móvel quebrado, sinto raiva acumulada.
+- Eu cuido de tudo nessa casa, mas parece que ninguém cuida de mim.
+- Tenho vergonha quando alguém vem aqui e vê essa bagunça.
+- Parece que minha casa está desmoronando aos poucos e eu junto com ela.
+- Nem pra arrumar uma porta eu posso contar com ele.
+- Me sinto culpada por reclamar, como se estivesse exagerando.
+- Cansei de repetir as mesmas coisas e não ser levada a sério.
+- Estou sozinha até nas pequenas coisas do dia a dia.
+- Essa desordem me suga a energia e bagunça até a minha cabeça.
 
+💎 10 DESEJOS PROFUNDOS
+- Quero entrar em casa e sentir que tudo está no seu lugar.
+- Sonho com o dia em que tudo vai estar funcionando sem eu ter que pedir.
+- Quero resolver as coisas sem depender de ninguém que me enrole.
+- Quero alguém que resolva o problema sem criar outro.
+- Só queria olhar pra esse canto e sentir paz, não estresse.
+- Quero sentir orgulho da minha casa de novo.
+- Preciso de alguém que me ouça e resolva, sem desculpas.
+- Quero ver a casa limpa, arrumada e saber que fiz isso por mim.
+- Desejo ser tratada com atenção, como alguém que importa.
+- Só queria que, por uma vez, alguém cumprisse o que promete.
 
+🧠 INSIGHTS ESTRATÉGICOS
+(Como usar tudo isso para criar copys, lives e anúncios que tocam fundo)
 
+1. A dor não é o móvel, é a negligência emocional
+Em vez de falar do serviço técnico, fale do alívio emocional.
+Campanha: “Você já pediu, já esperou… agora é hora de resolver.”
+
+2. Use gatilhos de alívio imediato e confiabilidade
+Mostre que você chega, resolve e ela nem precisa se preocupar.
+Campanha: “Nada de esperar mais um mês. A gente resolve de verdade — rápido, limpo e sem enrolação.”
+
+3. Traduza profissionalismo em cuidado
+Profissionalismo, para ela, é: ser pontual, respeitoso, ouvir, não sujar a casa, entregar o que promete.
+Campanha: “Chegamos na hora. Saímos deixando tudo no lugar. E você? Aliviada e em paz.”
 </exemplo de saida>
 ```
