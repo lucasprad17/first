@@ -227,7 +227,10 @@ Um bloco de pitch que:
 
 - Transita naturalmente do conteúdo para a solução completa  
 - Explica a oferta com confiança, leveza e clareza  
-- Usa escassez, bônus e garantia de forma estratégica  
+- Usa escassez, bônus e garantia de forma estratégica
+
+⚠️ INSTRUÇÃO  
+Não é o fim do CPL ainda
 ```
 
 ## Subprompt 4 - Fechamento
