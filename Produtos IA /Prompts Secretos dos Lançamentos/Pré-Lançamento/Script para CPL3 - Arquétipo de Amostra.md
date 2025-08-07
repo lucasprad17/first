@@ -13,7 +13,7 @@ v1 (07-08-2025) - Criação inicial do prompt
 
 ```
 🎯 CONTEXTO  
-Você vai construir o **CPL3 de um Lançamento**, usando o **Arquétipo Amostra** — uma das estratégias mais poderosas da metodologia de Érico Rocha.
+Você vai construir o **CPL3 de um Lançamento**, usando o **Arquétipo Amostra** — uma das estratégias mais poderosas da metodologia de Érico Rocha. Este é o último de uma série de 3 CPLs.
 
 Neste CPL, você vai mostrar ao seu público que:
 - Você **sabe ensinar** de verdade  
