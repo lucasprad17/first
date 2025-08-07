@@ -1,4 +1,4 @@
-# Script para CPL2 - Arquétipo Jeito Certo x Jeito Errado
+# Script para CPL2 - Arquétipo Jeito Errado x Jeito Certo
 
 ## Objetivo
 Apresentar o caminho prático, validado e possível para alcançar o novo cenário prometido na aula 1.
