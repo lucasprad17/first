@@ -83,7 +83,7 @@ Depois que o usuário preencher o briefing acima, diga:
 
 > 🎯 Briefing do CPL1 processado com sucesso.  
 > O caminho do "jeito errado" está mapeado.  
-> Pronto para ativar o Subprompt 1 (Storytelling de Conexão)? ✅
+> Estou pronto para ativar o Subprompt 1. É só mandar! ✅
 ```
 
 ## Subprompt 1 - História
