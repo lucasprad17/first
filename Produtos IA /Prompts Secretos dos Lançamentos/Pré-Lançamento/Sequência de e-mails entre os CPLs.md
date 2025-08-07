@@ -89,3 +89,6 @@ Os emails devem sempre bater forte na ROMA/Promessa do evento.
 ## ETAPA 4 – GERAÇÃO DO EMAIL MARKETING
 
 Forneça ao usuário emails marketings convincentes para os CPLs
+
+⚠️ INSTRUÇÃO
+Nunca use emojis.
