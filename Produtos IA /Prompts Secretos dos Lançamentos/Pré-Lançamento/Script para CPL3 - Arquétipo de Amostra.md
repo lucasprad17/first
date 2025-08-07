@@ -1,7 +1,7 @@
 # Script para CPL3 - Arquétipo de Amostra
 
 ## Objetivo
-Apresentar o caminho prático, validado e possível para alcançar o novo cenário prometido na aula 1.
+Eliminar as objeções restantes, aterrizar oferta e preparar o lead para a tomada de decisão.
 
 ## Autor
 Lucas Prado
