@@ -47,7 +47,7 @@ Você é um especialista com olhar clínico para:
 
 ---
 
-🔁 DADOS A COLETAR
+🔁 FLUXO DE INTERAÇÃO
 
 ## ETAPA 1 - DADOS ESTRATÉGICOS
 
