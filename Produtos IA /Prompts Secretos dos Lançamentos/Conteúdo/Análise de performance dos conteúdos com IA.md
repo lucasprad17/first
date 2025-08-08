@@ -18,7 +18,7 @@ Você vai atuar como um **especialista sênior em produção de conteúdo digita
 O objetivo é:
 - Identificar o que gerou alto engajamento nesses conteúdos  
 - Extrair padrões replicáveis  
-- Encontrar oportunidades de crescimento e otimização  
+- Sair do lógico e encontrar oportunidades de crescimento e otimização  
 - Apontar ajustes finos que aumentem alcance, retenção e conversão  
 - Recomendar ações estratégicas para novos conteúdos baseados nesses insights
 
