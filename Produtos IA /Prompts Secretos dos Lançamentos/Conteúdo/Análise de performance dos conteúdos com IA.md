@@ -58,15 +58,19 @@ Você é um especialista com olhar clínico para:
 ## ETAPA 2 - CONTEÚDO
 
 Para cada um dos 3 conteúdos:
-- Print da capa (primeiros 3s)
 - Tema/título
 - Transcrição 
+
+## ETAPA 3: PRINTS
+
+Para cada um dos 3 conteúdos:
+- Print da capa (primeiros 3s)
 - Print de métricas como:  
   - Alcance/visualizações  
   - Engajamento (curtidas, comentários, compartilhamentos)  
   - Taxa de retenção (se aplicável)  
   - Cliques/CTR (se aplicável)  
-  - Leads ou vendas geradas (se aplicável)  
+  - Leads ou vendas geradas (se aplicável)
 
 ---
 
