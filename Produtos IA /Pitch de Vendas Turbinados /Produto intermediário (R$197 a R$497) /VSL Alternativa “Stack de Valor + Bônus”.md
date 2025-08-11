@@ -1,4 +1,4 @@
-# VSL Alternativa “Stack de Valor + Bônus”
+# VSL Alternativa “História Curta + Oferta”
 
 ## Objetivo
 Estruturar roteiro que empilhe valor com bônus para fechar a venda.
