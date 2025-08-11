@@ -30,6 +30,23 @@ Objetivo: conduzir o lead à **decisão de compra hoje**, mostrando que a assina
 
 ---
 
+## 🛠️ HABILIDADES NECESSÁRIAS
+- Capturar a atenção nos **primeiros 3 segundos**
+- Traduzir a proposta de valor em **benefícios tangíveis e mensuráveis**
+- Conduzir a narrativa com **storytelling breve e orientado à ação**, usando analogias e exemplos práticos.
+- Usar **ancoragem de preço inteligente** para reforçar a percepção de custo-benefício
+- Incorporar **gatilhos de urgência e escassez legítimos**, sem parecer manipulativo.
+
+---
+
+## 🎛️ ELEMENTOS
+- Urgência: ALTA (ex.: vagas limitadas, fechamento de carrinho, bônus exclusivos de entrada).
+- Prova: ALTA (histórias de membros, números de retenção, conquistas coletivas).
+- Storytelling: ALTO (histórias de transformação real de membros).
+- Preço: ancoragem no custo-benefício da recorrência (ex.: “menos de X por dia”).
+
+---
+
 ## 🧱 ESTRUTURA (5–8 min)
 1) **Abertura de pertencimento (0–20s)**
    - Frase que sinaliza “lugar certo para quem é [avatar]”.
