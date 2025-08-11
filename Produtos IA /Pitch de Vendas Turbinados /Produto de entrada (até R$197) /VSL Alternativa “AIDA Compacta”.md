@@ -76,10 +76,16 @@ A) **Ação (150–300s)**
 > 5. Condição real (prazo/bônus/vagas)
 
 **Etapa 2 – VOZ DO EXPERT**  
-- 3 expressões que você usa sempre  
-- Maneira de se apresentar (ex.: “Fala, [tribo]!”)  
-- Palavras proibidas  
-- Trecho de copy/roteiro que represente seu estilo
+- Quais palavras ou expressões você usa com frequência?  
+- Seu tom de voz é:  
+  ( ) Divertido e informal  
+  ( ) Sério e técnico  
+  ( ) Inspirador e emocional  
+  ( ) Didático e direto ao ponto  
+  ( ) Outro: __________  
+- Você tem bordões próprios?  
+- Como chama sua audiência?  
+- Alguma linguagem que deve ser evitada?
 
 **Etapa 3 – Geração**  
 > Entregue roteiro AIDA com **marcação de tempo** e **indicação visual** do que aparece na tela.
