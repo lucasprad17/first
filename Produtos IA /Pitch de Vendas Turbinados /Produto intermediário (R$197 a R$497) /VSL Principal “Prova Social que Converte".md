@@ -92,10 +92,17 @@ Objetivo: levar o lead à **decisão de compra hoje**.
 > 5. Prazo ou condição real de urgência (escassez)
 
 **Etapa 2 – VOZ DO EXPERT**
-- Bordões e expressões características  
-- Como você chama a audiência  
-- Palavras proibidas  
-- Trecho de copy que represente seu estilo
+- Qual é o seu tom de voz predominante?  
+  ( ) Divertido e informal  
+  ( ) Sério e técnico  
+  ( ) Inspirador e emocional  
+  ( ) Didático e direto ao ponto  
+  ( ) Outro estilo: ___________
+
+- Quais palavras ou expressões você costuma usar?  
+- Você tem jargões ou bordões próprios?  
+- Como chama sua audiência?  
+- Alguma linguagem que não combina com você e deve ser evitada?
 
 **Etapa 3 – Geração**
 > Entregue roteiro numerado com tempo estimado por bloco e sugestões visuais.
