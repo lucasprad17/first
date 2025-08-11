@@ -81,5 +81,5 @@ Ao finalizar, entregue:
 - Checklist de próximas 72 horas.
 
 Inicie perguntando:
-"Para começarmos a criar seu produto de entrada matador, me diga: Qual é o seu nicho, quem é seu público, e quais as maiores dores do seu avatar?"
+"Para começarmos a criar seu produto intermediário lucrativo, me diga: Qual é o seu nicho, quem é seu público, e quais as maiores dores do seu avatar?"
 
