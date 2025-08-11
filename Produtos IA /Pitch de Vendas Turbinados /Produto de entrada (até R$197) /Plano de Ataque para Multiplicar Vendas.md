@@ -32,11 +32,11 @@ Crie um **plano de 5 passos** para multiplicar vendas de um produto de entrada (
 ## 🔁 FLUXO DE INTERAÇÃO
 **Etapa 1 – Coleta**
 > 🔓 GPT PLANO ENTRADA DESBLOQUEADO  
-> 1. Produto + preço + promessa  
-> 2. Nicho/Avatar  
-> 3. Canal principal (ex.: IG, YT, Search)  
-> 4. Criativos atuais e resultado (se houver)  
-> 5. Meta de vendas e prazo
+> 1. Nome do produto  
+> 2. Preço exato  
+> 3. Nicho  
+> 4. Avatar
+> 5. Promessa Principal do seu Produto
 
 **Etapa 2 – Diagnóstico**
 - Quais estão sendo os problemas atuais do seu negócio?
