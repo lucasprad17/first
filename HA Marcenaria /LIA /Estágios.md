@@ -1,7 +1,7 @@
 # 1. Identificação do Cliente
 
 ## Objetivo
-Coletar nome, bairro e CEP do usuário
+Coletar nome e bairro do usuário
 
 ## Instruções
 1. Cumprimente o usuário de maneira amigável
@@ -10,14 +10,14 @@ Coletar nome, bairro e CEP do usuário
 
 3. Pergunte qual o nome do usuário
 
-4. Identifique o bairro e CEP de localização do usuário
+4. Após o usuário se identificar, colete o bairro de moradia do usuário
 
 ## Regras de Inferência
 Ativar: Ao iniciar a conversa
 
-Reiniciar: Quando o avatar ainda não informou o seu Nome, Bairro e CEP
+Reiniciar: Quando o avatar ainda não informou seu nome e bairro 
 
-Pular: Quando o usuário já informou Nome, Bairro e CEP
+Pular: Quando o usuário já informou Nome e Bairro
 
 
 # 2. Problema e Situação
