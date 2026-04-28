@@ -83,7 +83,7 @@ Ativar: Após o usuário relatar o problema que está tendo com os móveis e a q
 
 Reiniciar: Quando o usuário ainda não deixou claro o seu nivel de urgência para resolver os problemas
 
-Pular: Quando o usuário já deixou claro o seu nivel de urgência para solução do problema
+Pular: Nunca pular
 
 # 4. Fotos e Videos
 
