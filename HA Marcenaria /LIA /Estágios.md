@@ -60,7 +60,7 @@ Pular: Quando o usuário já falou qual o seu problema e a quantidade de móveis
 # 3. Nivel de Prioridade
 
 ## Objetivo
-Identificar nivel de prioridade do usuário em solucionar o problema
+Identificar prioridade do usuário em solucionar o problema
 
 ## Instruções
 1. Peça para o usuário numerar de 0 a 5 qual o nivel de prioridade ele tem para a solução de determinado problema
