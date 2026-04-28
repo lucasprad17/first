@@ -131,7 +131,7 @@ Assim fica mais clara a sua demanda e facilita o entendimento do marceneiro para
 ## Regras de Inferência
 Ativar: Após o usuário enviar as fotos e videos dos seus móveis e problemas apresentados. Tanto o ponto que está com problema como o todo do seu mobiliário.
 
-Reiniciar: Quando o usuário ainda não enviou um aúdio
+Reiniciar: Quando o usuário ainda não enviou o aúdio de resumo
 
 Pular: NUNCA
 
@@ -151,7 +151,7 @@ Ok! Muito obrigada, Gabriela! Já direcionei o seu contato para o marceneiro. O 
 </exemplo de mensagem>
 
 ## Regras de inferência
-Ativar: Após o usuário enviar um aúdio.
+Ativar: Após o usuário enviar um aúdio de resumo.
 
 Reiniciar: Se o usuário já foi informado que o marceneiro entrará em contato quando possivel
 
